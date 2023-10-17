@@ -1,0 +1,8 @@
+# <center> Templates
+by Hyr1sky_He
+
+## Bit Algorithm
+
+#### About XOR
+blog [here](https://www.ruanyifeng.com/blog/2021/01/_xor.html#:~:text=%E5%BC%82%E6%88%96%E8%BF%90%E7%AE%97%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD%E3%80%82%20%E6%96%87%E4%BB%B6%20x%20%E5%92%8C%E6%96%87%E4%BB%B6%20y%20%E8%BF%9B%E8%A1%8C%E5%BC%82%E6%88%96%E8%BF%90%E7%AE%97%EF%BC%8C%E4%BA%A7%E7%94%9F%E4%B8%80%E4%B8%AA%E5%A4%87%E4%BB%BD%E6%96%87%E4%BB%B6%20z%E3%80%82%20x,%5E%20y%20%3D%200%20%5E%20y%20%3D%20y)
+
