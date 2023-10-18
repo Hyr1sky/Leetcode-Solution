@@ -25,3 +25,5 @@ long long int quik_power(int base, int power)
 }
 
 ```
+
+## Heapß
